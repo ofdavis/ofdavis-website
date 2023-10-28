@@ -1,0 +1,109 @@
+baseURL: "https://ofdavis.com/" 
+title: Owen F. Davis
+paginate: 20
+theme: PaperMod
+buildDrafts: true
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+    category: categories
+
+menu:
+    main:
+        - name: Papers
+          url: /papers/
+          weight: 1
+        - name: Reports
+          weight: 2 
+          url: /reports/
+        - name: Writings
+          weight: 3 
+          url: /writings/
+        - name: CV
+          url: /cv.pdf
+          weight: 4
+
+params:
+    description: "I am a labor economist and research fellow at the Siegel Family Endowment studying the intersection of artificial intelligence, technology and labor."
+    author: Owen F. Davis
+#    googleAnalyticsID: "G-97G4MZ4061"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Owen F. Davis
+          subtitle: "I am a labor economist and research fellow at the Siegel Family Endowment studying the intersection of artificial intelligence, technology and labor. 
+                     My current research focuses particularly on how AI and workplace technologies affect workers' bargaining power and wellbeing. 
+                     I also study labor market institutions, aging, health, and retirement."
+          imageUrl: "/owen2.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Owen F. Davis
+          buttons:
+            - name: Papers
+              url: /papers/
+            - name: Reports
+              url: /reports/
+            - name: Writings
+              url: /writings/
+            - name: CV
+              url: /cv.pdf
+# OD: Going to do without the social icons because I don't have as much to link to 
+#    socialIcons:
+#        - name: CV
+#          url: /cv.pdf
+#        - name: Email
+#          url: mailto:owenfrankdavis@gmail.com
+#        - name: Location
+#          url: /location/
+#        - name: Office Hours
+#          url: /officehours/
+#        - name: Google Scholar
+#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
+#        - name: GitHub
+#          url: https://github.com/pmichaillat?tab=repositories
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Owen F. Davis"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
