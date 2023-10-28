@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>popular writing on Owen F. Davis</title>
+    <link>https://www.ofdavis.com/categories/popular-writing/</link>
+    <description>Recent content in popular writing on Owen F. Davis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ofdavis.com/categories/popular-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Money Parables (Phenomenal World) </title>
+      <link>https://www.ofdavis.com/writings/money/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ofdavis.com/writings/money/</guid>
+      <description>Market societies use narratives to justify the social technology of money. Three money parables stand out: credit money, commodity money and chartalism.</description>
+    </item>
+    
+    <item>
+      <title>The Emerging Monopsony Consensus (Phenomenal World) </title>
+      <link>https://www.ofdavis.com/writings/monopsony/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ofdavis.com/writings/monopsony/</guid>
+      <description>Under the banner of monopsony, economists have built an impressive catalog of empirical work that offers a more plausible baseline model for labor markets.</description>
+    </item>
+    
+    <item>
+      <title>All Roads Lead To Wall Street (Dissent)</title>
+      <link>https://www.ofdavis.com/writings/dissent/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ofdavis.com/writings/dissent/</guid>
+      <description>This article explores the financialization of protest and social movements: the use of shareholder activism to achieve egalitarian ends.</description>
+    </item>
+    
+  </channel>
+</rss>
