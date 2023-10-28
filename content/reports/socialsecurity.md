@@ -6,7 +6,7 @@ aliases:
     - /socialsecurity.html
 tags: ["retirement","public policy", "Social Security"]
 categories: ["report"]
-author: ["Report Author 1", "Report Author 2"]
+author: ["Owen F. Davis", "Siavash Radpour", "Eva Conway", "Teresa Ghilarducci"]
 description: "In light of growing calls for retirement system reform, this report assesses the economic effects of Social Security." 
 summary: "In light of growing calls for retirement system reform, this report assesses the economic effects of Social Security, concluding that any reforms to federal retirement policy must be built on the foundation of a protected and strengthened Social Security system."
 cover:
