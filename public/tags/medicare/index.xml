@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Medicare on Owen F. Davis</title>
+    <link>https://www.ofdavis.com/tags/medicare/</link>
+    <description>Recent content in Medicare on Owen F. Davis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ofdavis.com/tags/medicare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Older Workers and Employer-Sponsored Health Insurance Premiums: Evidence From Linked Administrative and Survey Data</title>
+      <link>https://www.ofdavis.com/papers/owhi/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ofdavis.com/papers/owhi/</guid>
+      <description>This study explores the relationship between employer age structure and health insurance premiums using administrative data.</description>
+    </item>
+    
+  </channel>
+</rss>
