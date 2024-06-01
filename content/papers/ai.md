@@ -34,4 +34,4 @@ A growing body of economic research explores the possible consequences of artifi
 
 ##### Citation
 
-Davis, Owen F. (2023). "Artificial Intelligence and Worker Power." Working paper. 
+Davis, Owen F. (2024). "Artificial Intelligence and Worker Power." Working paper. 
