@@ -64,8 +64,8 @@ params:
               url: /papers/
             - name: Reports
               url: /reports/
-            - name: Writings
-              url: /writings/
+#            - name: Writings
+#              url: /writings/
             - name: CV
               url: /cv.pdf
 # OD: Going to do without the social icons because I don't have as much to link to 
