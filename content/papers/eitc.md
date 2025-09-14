@@ -21,7 +21,7 @@ draft: false
 
 ##### Links:
 
-- [Job market paper](/eitc.pdf)
+- [Paper](/eitc.pdf)
 - [Presentation slides](/eitc_slides.pdf)
 
 
@@ -29,7 +29,8 @@ draft: false
 
 ##### Abstract:
 
-Although the Earned Income Tax Credit is one of the largest and most extensively studied programs affecting low-income workers in the U.S., relatively little is known about the mechanisms for the labor-supply effects observed in the literature. Motivated by a wealth of prior sociological and survey research showing EITC recipients devote a substantial share of tax refunds to purchasing and maintaining vehicles necessary for job search and commuting, this study examines the personal transportation pathway. I use a simulated instrument approach leveraging metro-level variation in EITC exposure to compare labor-supply responses to policy changes between areas with varying levels of dependence on cars for commuting workers. The main results give strong support to the transportation mechanism: labor-supply effects are roughly 20\% smaller in cities with abundant public transportation and 20\% larger in highly car-dependent areas. Supplemental analyses into the seasonality of estimated EITC responses, however, provide less support for the hypothesized pathway. The paper also presents new results using the simulated instrument approach to address two outstanding questions in the literature: the effects of state EITC supplements and the impact of the 2009 EITC expansion. 
+Despite ample evidence that the Earned Income Tax Credit (EITC) boosts labor supply, its underlying mechanisms remain underexplored. This study examines the hypothesis that the EITC supports employment by helping recipients afford personal transportation. I build a simulated instrument leveraging metro-level variation in EITC exposure to compare responses to policy changes between areas with varying commuting characteristics. Estimated employment effects are roughly 20% smaller where public transportation is abundant and 20% larger in car-dependent areas. Additional analyses show significant associations between EITC expansion and car ownership. The paper also presents new evidence on state-level EITCs and the 2009 EITC expansion.
+
 
 ---
 
