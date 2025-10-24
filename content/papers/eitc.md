@@ -22,7 +22,6 @@ draft: false
 ##### Links:
 
 - [Paper](/eitc.pdf)
-- [Presentation slides](/eitc_slides.pdf)
 
 
 ---
@@ -36,4 +35,4 @@ Despite ample evidence that the Earned Income Tax Credit (EITC) boosts labor sup
 
 ##### Citation
 
-Davis, Owen F. (2023). "How Does the Earned Income Tax Credit Work? Exploring the Role of Commuting and Personal Transportation." Working paper. 
+Davis, Owen F. (forthcoming). "How Does the Earned Income Tax Credit Work? Exploring the Role of Commuting and Personal Transportation." *Journal of Labor Economics.*
