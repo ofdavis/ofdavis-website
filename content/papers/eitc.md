@@ -5,7 +5,7 @@ url: /papers/eitc
 aliases: 
     - /eitc.html
 tags: ["labor supply","job search","public policy","Earned Income Tax Credit"]
-categories: ["working paper"]
+categories: ["publication"]
 author: ["Owen F. Davis"]
 description: "This paper uses a simulated instrument approach to explore the personal transportation and commuting mechanism behind the Earned Income Tax Credit." 
 summary: "This paper uses a simulated instrument approach leveraging metro-level variation in EITC exposure to compare labor-supply responses to policy changes between areas with varying levels of dependence on cars for commuting workers."
